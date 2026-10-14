@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Sylvia](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+
+DUT软件学院研0
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>1049867781@qq.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Taiyuan University of Technology**,  
+• GPA: 4.22 (top 5%)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**DaLian University of Technology** , <br>
 
 #### Research Interests  
-XX, XX, XX, XX.
+/

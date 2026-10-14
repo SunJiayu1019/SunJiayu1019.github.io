@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 校级优秀学生一等奖学金, 2024、2025； 
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 中国高校计算机大赛网络技术挑战赛，国家级三等奖，2025；
